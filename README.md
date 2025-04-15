@@ -24,7 +24,9 @@ stalabwork.xin
 # 运行项目
 
 npm install 安装所需的依赖包
+
 npm run dev 运行开发版本
+
 npm run start 运行生产版本
 
 # 须知
