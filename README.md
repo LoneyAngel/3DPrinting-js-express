@@ -25,15 +25,15 @@
 ## 版本
 - node v22.14.0
 ## 配置
-将.env 文件中的变量换成自己的
-目前使用的是 http 模式，根据需要换成 https 模式
+- 将.env 文件中的变量换成自己的
+- 目前使用的是 http 模式，根据需要换成 https 模式
 
 
 # 运行项目
 
 - npm install 安装所需的依赖包
-- npm run dev 运行开发版本
-- npm run start 运行生产版本
+- npm run dev 热加载启动
+- npm run start 运行
 
 # 联系
 2670696747@qq.com
