@@ -7,7 +7,9 @@
 
 - 这里是3Dprinting 网站的后端部分
 - 展示网址 https://stalabwork.xin
-- 使用 js 的 express 作为后端架构，使用 token 进行用户验证
+
+## 技术栈
+- 使用 js 的 express 作为后端架构，使用 jwt-token和阿里云的sms 进行前后端校验
 
 # 项目架构
 
